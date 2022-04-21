@@ -1,5 +1,6 @@
 # Assignments
-This is the doselect Assignment repository
+Hello!
+I am Surya S and this is my doselect repository.
 
 
 Group 1
