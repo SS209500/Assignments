@@ -15,6 +15,6 @@ Group 1
 10. Sandhya P
 
 Questions
-1-5
-21-25
-41-45
+ 1-5
+ 21-25
+ 41-45
