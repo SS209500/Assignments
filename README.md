@@ -10,7 +10,7 @@ Group 1
 4. Mubarak
 5. Bala Prem Sai
 6. Aasim
-7. srusti
+7. Srushti Jadhav
 8. himanth
 9. Jahnavi
 10. Sandhya P
